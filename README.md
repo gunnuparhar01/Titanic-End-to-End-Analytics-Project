@@ -81,7 +81,7 @@ docs/
 
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](https://github.com/gunnuparhar01/Titanic-End-to-End-Analytics-Project/blob/main/Titanic-End-to-end-Project/Image/dashboard.png/Dashboard.png)
 
 ## Confusion Matrix
 
