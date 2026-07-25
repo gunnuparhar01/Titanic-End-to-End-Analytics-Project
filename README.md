@@ -85,10 +85,10 @@ docs/
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/gunnuparhar01/Titanic-End-to-End-Analytics-Project/blob/main/Titanic-End-to-end-Project/Image/dashboard.png/Dashboard.png)
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix]()
 
 
