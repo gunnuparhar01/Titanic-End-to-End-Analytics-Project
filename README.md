@@ -83,9 +83,9 @@ docs/
 
 ![Dashboard](https://github.com/gunnuparhar01/Titanic-End-to-End-Analytics-Project/blob/main/Titanic-End-to-end-Project/Image/dashboard.png/Dashboard.png)
 
-## Confusion Matrix
+## Feature Importance
 
-![Confusion Matrix](https://github.com/gunnuparhar01/Titanic-End-to-End-Analytics-Project/blob/main/Titanic-End-to-end-Project/Image/dashboard.png/Dashboard.png)
+![Feature Importance](https://github.com/gunnuparhar01/Titanic-End-to-End-Analytics-Project/blob/main/Titanic-End-to-end-Project/Image/feature_importance.png/feature_importance%20(1).png)
 
 ## Confusion Matrix
 
